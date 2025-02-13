@@ -4,6 +4,7 @@
 #include <QApplication>
 #include <QWidget>
 #include <QGridLayout>
+#include <QLabel>
 
 #include "keyboardArea.h"
 
